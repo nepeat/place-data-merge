@@ -1,0 +1,15 @@
+# Python
+env/
+__pycache__/
+*.pyc
+*.prof
+
+# Databases
+dbs/
+*.db
+*.sqlite3
+*.sqlite
+
+# IDEs
+.idea/
+.vscode/
